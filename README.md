@@ -15,4 +15,4 @@ Refer:
 
 These notebooks provide working examples that can be downloaded and played around with.
 
-More details on all the PyDeequ Components and when to use which component in different use cases can be found in my blog post (here)[https://guptaakashdeep.com/pydeequ-testing-data-quality-at-scale].
+More details on all the PyDeequ Components and when to use which component in different use cases can be found in my blog post [here](https://guptaakashdeep.com/pydeequ-testing-data-quality-at-scale).
